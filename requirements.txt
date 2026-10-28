@@ -1,0 +1,4 @@
+anthropic
+feedparser
+markdown
+python-dotenv
